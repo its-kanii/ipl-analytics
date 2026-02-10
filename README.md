@@ -105,9 +105,9 @@ IPL-Analytics/
 
 ## Charts
 
-*![Over-wise Run Rate Comparison](charts/overwise_run_rate.png)
-*![Top Death-Over Bowlers](charts/top_death_over_bowlers.png)
-*![Top All-Rounders by Impact Score](charts/top_all_rounders_impact.png)
+*![Top 10 Batters Strike Rate](notebooks/top_10_batters_strike_rate.png)
+*![Top Death-Over Bowlers](notebooks/top_death_over_bowlers.png)
+*![Top All-Rounders by Impact Score](notebooks/top_all_rounders_impact.png)
 
 ---
 
